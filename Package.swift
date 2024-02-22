@@ -14,7 +14,7 @@ import PackageDescription
 let package = Package(
     name: "FIT",
     platforms: [
-            .iOS(.v23),
+            .iOS(.v12),
             .macOS(.v10_15),
             .tvOS(.v13),
             .watchOS(.v6),
